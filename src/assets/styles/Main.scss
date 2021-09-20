@@ -11,3 +11,23 @@
 .fs-8 {
   font-size: 0.8rem;
 }
+
+@media (max-width: 768px) {
+  .swap-img {
+    display: flex;
+    order: 2;
+  }
+  div.swap-body {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0 0 0 !important;
+    order: 1;
+  }
+}
+
+@media (max-width: 500px) {
+  .img-fl {
+    max-width: 100%;
+    object-fit: cover;
+  }
+}
