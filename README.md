@@ -1,6 +1,6 @@
 Practice of bootstrap with react-bootstrap and react router dom
 
-![plot](./src/assets/page.png)
+![plot](./src/assets/images/page.png)
 
 Figma Draft
 
